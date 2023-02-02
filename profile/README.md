@@ -5,6 +5,7 @@ Novastorm Development is created by If0n, its a company that specializes mostly 
 # Our Projects
 
 Novastorm has created some great tools that can be used for free!
+Check them out in our repositorys.
 
 # Contribution guidelines
  
