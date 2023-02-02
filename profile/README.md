@@ -1,4 +1,3 @@
-<!--
 # What is Novastorm Development?
 
 Novastorm Development is created by If0n, its a company that specializes mostly in software and game development
@@ -18,4 +17,3 @@ Novastorm has created some great tools that can be used for free!
  Rule #3: If you harm our games/software there will be consequenses.'
  
  Thats pretty much it Just be respectful and have a good day!
--->
